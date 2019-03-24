@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 import os
 import sys
-import io
-import csv
 
 directory = sys.argv[1]
 newfile = sys.argv[2]
